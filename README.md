@@ -1,10 +1,9 @@
 # about-me-ucf-
 
-##The About Me Project
+# The About Me Project
 
 This document provides *brief* overview of the layout of this website. For more internalized documentation, contact me.
 
-##Table of Contents
 
 **Installation**
 
